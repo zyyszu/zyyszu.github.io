@@ -47,7 +47,7 @@ Yingying Zhu, professor and doctoral supervisor, received a bachelor's, master's
 # 📝 Academic Research
 Zhu's research focuses on deep learning, reinforcement learning, computer vision, AIGC, etc. As the project leader, he has presided over nearly 20 National Natural Science Foundation projects, Guangdong Natural Science Foundation projects, Shenzhen Science and Technology Innovation Basic Research Discipline Layout Projects and Basic Research General Projects. Zhu has published nearly 70 papers in computer TOP conferences, international TOP journals, domestic TOP journals, SCI journals, EI conferences, etc., and has authorized more than 10 Chinese and American patents and software copyrights. He serves as a program committee member (PC Member/PC Committee) of top international conferences such as CVPR, ECCV, ICCV, ICLR, ICML, AAAI, IJCAI, NeurIPS, ACM MM, ICRA, and serves as a reviewer for many important international and domestic professional journals (TPAMI, IJCV, TIP, TNNLS, TC, TMM, TCSVT, TGRS, KBS, EWSA, Neurocomputing, Journal of Software, Journal of Computers, etc.).
 
-<span class='anchor' id='industrial-r&d'></span>
+<span class='anchor' id='industrial'></span>
 # 🔬 Industrial R&D
 Closely cooperate with many high-tech IT companies, presided over 15 horizontal projects, has strong project R&D experience, developed multiple multimedia application systems and software, and has been put into use to generate benefits, such as Shenzhen Metro Group and Nasdaq-listed group companies. Teacher Zhu has cooperated with high-tech IT companies for many years, is familiar with the employment needs of enterprises, and has rich experience in cultivating high-end talents urgently needed by enterprises.
 
