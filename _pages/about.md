@@ -42,18 +42,18 @@ Yingying Zhu, professor and doctoral supervisor, received a bachelor's, master's
 - *2022.07*: &nbsp;🎉🎉 Dafeng Li was recommended for an internship at the Infrastructure R&D Department of ByteDance.
 - *2022.07*: &nbsp;🎉🎉 Zhanyuan Yang published a paper as the first author titled Few-Shot Classification with Contrastive Learning at the flagship computer vision conference ECCV 2022 (CCF B).
 
-# 📝 Academic research
+# 📝 Academic Research
 Zhu's research focuses on deep learning, reinforcement learning, computer vision, AIGC, etc. As the project leader, he has presided over nearly 20 National Natural Science Foundation projects, Guangdong Natural Science Foundation projects, Shenzhen Science and Technology Innovation Basic Research Discipline Layout Projects and Basic Research General Projects. Zhu has published nearly 70 papers in computer TOP conferences, international TOP journals, domestic TOP journals, SCI journals, EI conferences, etc., and has authorized more than 10 Chinese and American patents and software copyrights. He serves as a program committee member (PC Member/PC Committee) of top international conferences such as CVPR, ECCV, ICCV, ICLR, ICML, AAAI, IJCAI, NeurIPS, ACM MM, ICRA, and serves as a reviewer for many important international and domestic professional journals (TPAMI, IJCV, TIP, TNNLS, TC, TMM, TCSVT, TGRS, KBS, EWSA, Neurocomputing, Journal of Software, Journal of Computers, etc.).
 
 # 🔬 Industrial R&D
 Closely cooperate with many high-tech IT companies, presided over 15 horizontal projects, has strong project R&D experience, developed multiple multimedia application systems and software, and has been put into use to generate benefits, such as Shenzhen Metro Group and Nasdaq-listed group companies. Teacher Zhu has cooperated with high-tech IT companies for many years, is familiar with the employment needs of enterprises, and has rich experience in cultivating high-end talents urgently needed by enterprises.
 
-# 🛠 Cooperation team
+# 🛠 Cooperation Team
 Teacher Zhu Yingying and American professor Qi Tian (IEEE Fellow), chief scientist in the field of artificial intelligence of Huawei Cloud, have in-depth scientific research cooperation in the fields of artificial intelligence and computer vision, and provide joint training and internship opportunities for outstanding students with Huawei, ByteDance, Tencent, DJI, Obi Zhongguang, etc., and have recommended many students to enter Tencent AI Lab (algorithm position), Huawei Cloud, etc. for internship and work.
 
 At the same time, it has in-depth scientific research cooperation with the Department of Computer Science at the University of Texas and the Australian National University in the direction of multimedia data mining research. In addition, it has close academic exchanges and scientific research cooperation with famous universities such as the University of Sydney, the Chinese University of Hong Kong, Wuhan University, Huazhong University of Science and Technology, Zhejiang University, and the University of Science and Technology of China.
 
-# 📚 Student cultivating
+# 📚 Student Cultivating
 More than 30 graduate students have been trained, and they have been guided to publish papers in top conferences in the field of artificial intelligence (NeurIPS, AAAI), computer vision (ECCV, ICCV), multimedia (ACM MM, ICME), information retrieval (ACM SIGIR, ICMR) and TOP journals. Many graduates have won outstanding graduates from Shenzhen University and national scholarships. Many graduates have entered Zhejiang University, Fudan University, Nanyang Technological University, Sun Yat-sen University and other famous universities for further studies, and many have entered well-known companies such as Alibaba, ByteDance, Huawei, Tencent, Meituan, DJI, ZTE, Shopee, Oracle, etc.
 
 Students who are interested in investing in cutting-edge research in artificial intelligence, computer vision, multimedia, high-tech IT enterprise engineering project development, internships at Huawei, ByteDance, Tencent, or further studies in the United States, Australia, Hong Kong, and Singapore are welcome to join our team.
@@ -61,7 +61,7 @@ Students who are interested in investing in cutting-edge research in artificial 
 Cultivation philosophy: 
 We fully respect students' personal scientific research interests. Through research activities, we are committed to cultivating students' ability to analyze and solve problems and sufficient teamwork opportunities, providing novices with personalized learning routes, integrating echelon training, creating an active and mutual academic atmosphere, and providing competitive and high scientific research rewards.
 
-# 💻 Scientific research environment
+# 💻 Research Support
 The laboratory is located on the 4th floor of Zhiteng Building, School of Computer Science, equipped with multiple high-performance deep learning servers (NVIDIA Tesla A100, V100, P100, etc., more than 20 units), multiple graphics workstations, providing each student with an independent work space and high-performance work computer.
 
 # 📚 Recently Publications
