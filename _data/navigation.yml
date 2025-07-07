@@ -4,22 +4,22 @@ main:
     url: "/#about-me"
 
   - title: "News"
-    url: "/#-news"
+    url: "#news"
 
   - title: "Academic research"
-    url: "/#-Academic research"
+    url: "#academic-research"
 
   - title: "Industrial R&D"
-    url: "/#-Industrial R&D"
+    url: "#industrial-r&d"
 
   - title: "Cooperation team"
-    url: "/#-Cooperation team"
+    url: "#cooperation-team"
 
   - title: "Student cultivating"
-    url: "/#-Student cultivating"
+    url: "#student-cultivating"
 
-  - title: "Scientific research environment"
-    url: "/#-Scientific research environment"
+  - title: "Research Support"
+    url: "#research-support"
 
   - title: "Recently Publications"
-    url: "/#-Recently Publications"
+    url: "#recently-publications"
