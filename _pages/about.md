@@ -77,7 +77,7 @@ The laboratory is located on the 4th floor of Zhiteng Building, School of Comput
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/CVPR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/ECCV.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Benchmarking the Robustness of Cross-View Geo-Localization Models](https://link.springer.com/content/pdf/10.1007/978-3-031-73021-4_3.pdf?pdf=inline%20link)
