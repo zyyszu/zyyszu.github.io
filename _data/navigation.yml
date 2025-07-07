@@ -6,17 +6,20 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Publications"
-    url: "/#-publications"
+  - title: "Academic research"
+    url: "/#-Academic research"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  - title: "Industrial R&D"
+    url: "/#-Industrial R&D"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "Cooperation team"
+    url: "/#-Cooperation team"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
+  - title: "Student cultivating"
+    url: "/#-Student cultivating"
 
-  - title: "Internships"
-    url: "/#-internships"
+  - title: "Scientific research environment"
+    url: "/#-Scientific research environment"
+
+  - title: "Recently Publications"
+    url: "/#-Recently Publications"
