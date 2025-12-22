@@ -24,9 +24,9 @@ Yingying Zhu, professor and doctoral supervisor, received a bachelor's, master's
 <span class='anchor' id='news'></span>
 # 🔥 News
 - *2025.11*: &nbsp;🎉🎉 Le Wu's paper (first author) was accepted by AAAI 2026, a top conference in the artificial intelligence field.
-- *2025.11*: &nbsp;🎉🎉 YuQi Xiao, XinWang Xiao, SongSong OuYang, and other team members won the Second Prize in the 19th "Challenge-cup Extracurricular and Academic Contest".
-- *2025.09*: &nbsp;🎉🎉 SongSong OuYang's paper (first author) was accepted by NeurIPS 2025, a leading conference in the machine learning field.
-- *2025.07*: &nbsp;🎉🎉 YiRu Li's paper (first author) was accepted by ACM MM 2025, a top conference in the multimedia field.
+- *2025.11*: &nbsp;🎉🎉 Yuqi Xiao, Xinwang Xiao, Songsong Ouyang, and other team members won the Second Prize in the 19th "Challenge-cup Extracurricular and Academic Contest".
+- *2025.09*: &nbsp;🎉🎉 Songsong Ouyang's paper (first author) was accepted by NeurIPS 2025, a leading conference in the machine learning field.
+- *2025.07*: &nbsp;🎉🎉 Yiru Li's paper (first author) was accepted by ACM MM 2025, a top conference in the multimedia field.
 - *2025.07*: &nbsp;🎉🎉 Qingwang Zhang won the title of "Outstanding Graduate of Shenzhen University".
 - *2025.06*: &nbsp;🎉🎉 Qingwang Zhang's paper was accepted by ICCV 2025, a top conference in the computer field. 
 - *2025.03*: &nbsp;🎉🎉 Yuanyuan Li and Jiecong Chen's papers were accepted by ICME 2025, the flagship conference in the multimedia field.
@@ -76,6 +76,43 @@ The laboratory is located on the 4th floor of Zhiteng Building, School of Comput
 
 <span class='anchor' id='recently-publications'></span>
 # 📚 Recently Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/NeurIPS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CVGL: Causal Learning and Geometric Topology](https://neurips.cc/virtual/2025/loc/san-diego/poster/120249)
+
+**Songsong Ouyang, Yingying Zhu**
+
+[**Project**](https://github.com/oyss-szu/CLGT) <strong><span class='show_paper_citations' data='X_aB1kAAAAAJ:2P1L_qKh6hAC'></span></strong>
+- Extensive experiments on CVUSA, CVACT, and their robustness-enhanced variants (CVUSA-C-ALL and CVACT-C-ALL) demonstrate that CLGT achieves state-of-the-art performance, particularly under challenging real-world corruptions. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/mm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PLGeo: A Patch-level Framework to Overcome Orientation Discrepancies in Cross-view Geo-localization](https://dl.acm.org/doi/pdf/10.1145/3746027.3755181)
+
+**Yiru Li, Yingying Zhu**
+
+[**Project**](https://github.com/1203ll/PLGeo) <strong><span class='show_paper_citations' data='X_aB1kAAAAAJ:2P1L_qKh6hAC'></span></strong>
+- PLGeo is the first work to explore patch-level alignment for unknown orientation cross-view geo-localization.. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/ICCV.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Breaking Rectangular Shackles: Cross-View Object Segmentation for Fine-Grained Object Geo-Localization](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhang_Breaking_Rectangular_Shackles_Cross-View_Object_Segmentation_for_Fine-Grained_Object_Geo-Localization_ICCV_2025_paper.pdf)
+
+**Qingwang Zhang, Yingying Zhu**
+
+[**Project**](https://zqwlearning.github.io/CVOS.) <strong><span class='show_paper_citations' data='X_aB1kAAAAAJ:2P1L_qKh6hAC'></span></strong>
+- Extensive experiments on both CVOGL and CVOGL-Seg datasets demonstrate that our approach achieves state-of-the-art performance, effectively breaking the rectangular shackles and unlocking new possibilities for fine-grained object geo-localization. 
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/AAAI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -95,7 +132,7 @@ The laboratory is located on the 4th floor of Zhiteng Building, School of Comput
 
 **Qingwang Zhang, Yingying Zhu**
 
-[**Project**](https://zqwlearning.github.io/CVOS.) <strong><span class='show_paper_citations' data='X_aB1kAAAAAJ:35N4QoGY0k4C'></span></strong>
+[**Project**](https://github.com/zqwlearning/CrossViewRobustness-Code) <strong><span class='show_paper_citations' data='X_aB1kAAAAAJ:35N4QoGY0k4C'></span></strong>
 - Created a new benchmark for robust evaluation of cross-view geolocation. 
 </div>
 </div>
