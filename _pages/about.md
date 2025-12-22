@@ -23,6 +23,10 @@ Yingying Zhu, professor and doctoral supervisor, received a bachelor's, master's
 
 <span class='anchor' id='news'></span>
 # 🔥 News
+- *2025.11*: &nbsp;🎉🎉 Le Wu's paper (first author) was accepted by AAAI 2026, a top conference in the artificial intelligence field.
+- *2025.11*: &nbsp;🎉🎉 YuQi Xiao, XinWang Xiao, SongSong OuYang, and other team members won the Second Prize in the 19th "Challenge-cup Extracurricular and Academic Contest".
+- *2025.09*: &nbsp;🎉🎉 SongSong OuYang's paper (first author) was accepted by NeurIPS 2025, a leading conference in the machine learning field.
+- *2025.07*: &nbsp;🎉🎉 YiRu Li's paper (first author) was accepted by ACM MM 2025, a top conference in the multimedia field.
 - *2025.07*: &nbsp;🎉🎉 Qingwang Zhang won the title of "Outstanding Graduate of Shenzhen University".
 - *2025.06*: &nbsp;🎉🎉 Qingwang Zhang's paper was accepted by ICCV 2025, a top conference in the computer field. 
 - *2025.03*: &nbsp;🎉🎉 Yuanyuan Li and Jiecong Chen's papers were accepted by ICME 2025, the flagship conference in the multimedia field.
@@ -79,7 +83,7 @@ The laboratory is located on the 4th floor of Zhiteng Building, School of Comput
 
 **Chenlin Fu, Yingying Zhu**
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=X_aB1kAAAAAJ&sortby=pubdate&citation_for_view=X_aB1kAAAAAJ:2P1L_qKh6hAC) <strong><span class='show_paper_citations' data='X_aB1kAAAAAJ:2P1L_qKh6hAC'></span></strong>
+[**Project**](https://github.com/clin-fu/BGHR) <strong><span class='show_paper_citations' data='X_aB1kAAAAAJ:2P1L_qKh6hAC'></span></strong>
 - BGHR achieves state-of-the-art performance compared to HBox-supervised methods without additional overhead. 
 </div>
 </div>
@@ -91,7 +95,7 @@ The laboratory is located on the 4th floor of Zhiteng Building, School of Comput
 
 **Qingwang Zhang, Yingying Zhu**
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=X_aB1kAAAAAJ&sortby=pubdate&citation_for_view=X_aB1kAAAAAJ:35N4QoGY0k4C) <strong><span class='show_paper_citations' data='X_aB1kAAAAAJ:35N4QoGY0k4C'></span></strong>
+[**Project**](https://zqwlearning.github.io/CVOS.) <strong><span class='show_paper_citations' data='X_aB1kAAAAAJ:35N4QoGY0k4C'></span></strong>
 - Created a new benchmark for robust evaluation of cross-view geolocation. 
 </div>
 </div>
